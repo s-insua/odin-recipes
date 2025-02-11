@@ -1,0 +1,25 @@
+h1 {
+    background-color: beige;
+    color: blue;
+    font-size: 50px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h2 {
+    color: blue;
+    background-color: beige;
+}
+
+.párrafo {
+    color: grey;
+    font-weight: bold;
+}
+
+.lista {
+    color: gray;
+}
+
